@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StudyFocus</string>
+    <string name="nav_pomodoro">Estudar</string>
+    <string name="nav_subjects">Planner</string>
+    <string name="nav_stats">Dados</string>
+    <string name="nav_blocker">Foco</string>
+    <string name="nav_history">Histórico</string>
+    <string name="accessibility_service_label">StudyFocus - Bloqueio de Distrações</string>
+    <string name="accessibility_service_description">Utilizado pelo StudyFocus para detectar abertura de aplicativos selecionados e verificar domínios restritos durante sessões de foco ativas.</string>
+</resources>
